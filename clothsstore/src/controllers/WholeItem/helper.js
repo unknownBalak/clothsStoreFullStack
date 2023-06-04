@@ -84,6 +84,6 @@ export async function displayRazorPay(e) {
 
     paymentObject.open();
   } catch (error) {
-    alert(`${error}, please try after sometime`);
+    alert(`${error}, please try after sometime!`);
   }
 }

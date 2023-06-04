@@ -1,3 +1,4 @@
+import React from "react";
 import { Link, useParams } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import { increment } from "../redux_store/action/productsAction";

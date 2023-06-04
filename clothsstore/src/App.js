@@ -1,4 +1,5 @@
 import "./App.css";
+import React from "react";
 import Home from "./controllers/Home/component";
 function App() {
   return (

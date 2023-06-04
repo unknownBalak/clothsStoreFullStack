@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clothsstore-dev-235433-authRole",
+      "UnauthRoleArn": "arn:aws:iam::677816028244:role/amplify-clothsstore-dev-235433-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::677816028244:role/amplify-clothsstore-dev-235433-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clothsstore-dev-235433-deployment",
+      "UnauthRoleName": "amplify-clothsstore-dev-235433-unauthRole",
+      "StackName": "amplify-clothsstore-dev-235433",
+      "StackId": "arn:aws:cloudformation:us-east-1:677816028244:stack/amplify-clothsstore-dev-235433/bc57e340-0172-11ee-b68f-0e9f2931ca55",
+      "AmplifyAppId": "ditdzlr3yuh95"
+    },
+    "categories": {
+      "function": {
+        "clotStoreLambda": {},
+        "clothsStoreLambda": {}
+      }
+    }
+  }
+}

@@ -1,16 +1,5 @@
 {
   "function": {
-    "clotStoreLambda": {
-      "build": true,
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    },
-    "clothStorebackend": {
-      "build": true,
-      "dependsOn": [],
-      "providerPlugin": "awscloudformation",
-      "service": "Lambda"
-    },
     "clothsStoreLambda": {
       "build": true,
       "providerPlugin": "awscloudformation",
